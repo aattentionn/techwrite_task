@@ -3,12 +3,12 @@
 ### Как начать танцевать в стиле house: пошаговая инструкция
 
 1. **Познакомьтесь со стилем**
-Узнайте, что такое house dance, когда он появился и какие базовые движения существуют. Начать можно с этих Youtube-каналов:<br/>
+Узнайте, что такое house dance, когда он появился и какие базовые движения существуют. Начать можно с этих Youtube-каналов:
 - [Jardy Santiago](https://www.youtube.com/@JardySantiago);
 - [Summer Dance Forever](https://www.youtube.com/@SummerDanceForever).
 
 2. **Начните практиковаться**
-Найдите уроки по house dance в вашем городе и запишитесь на пробное занятие. Если офлайн-уроков нет, можно начать с онлайн:<br/>
+Найдите уроки по house dance в вашем городе и запишитесь на пробное занятие. Если офлайн-уроков нет, можно начать с онлайн:
 - [Kamon](https://kamon.dance/);
 - [Banri Jackin](https://www.youtube.com/@housedance-tutorial).
 
@@ -27,7 +27,7 @@
 7. **Вдохновляйтесь другими**
 Смотрите батлы, посещайте танцевальные мероприятия в вашем городе, следите за house-танцорами в социальных сетях.
 
-![Схема взаимодейстивя компонентов](/techwrite_task/path.PNG)
+![Схема взаимодейстивя компонентов](/path.PNG)
 
 ## Обратная связь
 
@@ -37,23 +37,23 @@
 
 2. Подзаголовок “Объединить или разделить чеки” указан дважды на странице.
 
-3. **“Электронных чеков может быть несколько, изменить содержание чека нельзя.”**<br/>
+3. **“Электронных чеков может быть несколько, изменить содержание чека нельзя.”**
 Во второй части предложения можно заменить на “изменить их содержание нельзя”, чтобы избежать повторения “чеков”. В первой части предложения пользователю понятно, что речь идет о чеках. 
 
-3. **“Вы также получите все чеки по электронной почте, указанной в профиле. Чтобы изменить адрес, перейдите в раздел Ozon ID."**<br/>
+3. **“Вы также получите все чеки по электронной почте, указанной в профиле. Чтобы изменить адрес, перейдите в раздел Ozon ID."**
 Исправила бы на “Вы также получите их по электронной …”. Из предыдущего предложения контекст понятен.
 
-4. **“Вы получите один или несколько чеков коррекции, если:”**<br/>
+4. **“Вы получите один или несколько чеков коррекции, если:”**
 Убрала бы “чеков коррекции”, потому что предыдущее предложение даёт контекст.
 
-5. **“При покупке подарочного сертификата Ozon вы получите только авансовый чек — сертификат подтверждает внесение аванса в счёт будущих покупок и не является товаром.”**<br/>
+5. **“При покупке подарочного сертификата Ozon вы получите только авансовый чек — сертификат подтверждает внесение аванса в счёт будущих покупок и не является товаром.”**
 Сделала бы два отдельных предложения вместо тире.
 
 6. В блоке про подарочный сертификат, вместо ненумерованного списка оставила бы предложения.
 
 ## Переводы
 
-On Ozon Bank's page in the Ozon Mobile App, there is a promo information about key benefits of holding an Ozon Card. The top section includes an image of Ozon Bank card and financial icons. There are highlited benefits of the card below:</br>
+On Ozon Bank's page in the Ozon Mobile App, there is a promo information about key benefits of holding an Ozon Card. The top section includes an image of Ozon Bank card and financial icons. There are highlited benefits of the card below:
 - Free service and cashback system – clients save up to 25% outside Ozon and up to 30% on marketplace;
 - Installment with Ozon Bank for clients purchases;
 - Saving account - 22% per annum for the first 2 months if the client opening a saving account for the first time. Then 15% annually.
@@ -62,4 +62,4 @@ To issue the card, the client can press button at the bottom of the window.
 
 To exit this page, the user need to press the arrow button in the top left corner.
 
-![Экран карты Ozon Банк в приложении](/techwrite_task/page.PNG)
+![Экран карты Ozon Банк в приложении](/page.PNG)
